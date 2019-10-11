@@ -1,8 +1,6 @@
-/*********************************************************
+/***********************
  author: Hao Wang
- reference:  https://www.openprocessing.org/sketch/26608/
-   but I didn't use the method, I shortened the code
-*********************************************************/
+***********************/
 void setup(){
   size(800,800);
 }
